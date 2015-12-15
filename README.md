@@ -19,8 +19,7 @@ or
 	cout << hi << endl;
 
 
+Ben is a trouble maker and making a merge conflict!
 
 
-
-
-	Feng updates	
+	Feng updates
